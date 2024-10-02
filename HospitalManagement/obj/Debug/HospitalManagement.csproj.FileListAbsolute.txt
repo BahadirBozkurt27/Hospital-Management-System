@@ -1,0 +1,34 @@
+D:\Ders\3.Sınıf Güz\Database Applications\HospitalManagement\HospitalManagement\obj\Debug\HospitalManagement.csproj.AssemblyReference.cache
+D:\Ders\3.Sınıf Güz\Database Applications\HospitalManagement\HospitalManagement\obj\Debug\HospitalManagement.Properties.Resources.resources
+D:\Ders\3.Sınıf Güz\Database Applications\HospitalManagement\HospitalManagement\obj\Debug\HospitalManagement.csproj.GenerateResource.cache
+D:\Ders\3.Sınıf Güz\Database Applications\HospitalManagement\HospitalManagement\obj\Debug\HospitalManagement.csproj.CoreCompileInputs.cache
+D:\Ders\3.Sınıf Güz\Database Applications\HospitalManagement\HospitalManagement\bin\Debug\HospitalManagement.exe.config
+D:\Ders\3.Sınıf Güz\Database Applications\HospitalManagement\HospitalManagement\bin\Debug\HospitalManagement.exe
+D:\Ders\3.Sınıf Güz\Database Applications\HospitalManagement\HospitalManagement\bin\Debug\HospitalManagement.pdb
+D:\Ders\3.Sınıf Güz\Database Applications\HospitalManagement\HospitalManagement\obj\Debug\HospitalManagement.exe
+D:\Ders\3.Sınıf Güz\Database Applications\HospitalManagement\HospitalManagement\obj\Debug\HospitalManagement.pdb
+D:\Ders\3.Sınıf Güz\Database Applications\HospitalManagement\HospitalManagement\obj\Debug\HospitalManagement.Login.resources
+D:\Ders\3.Sınıf Güz\Database Applications\HospitalManagement\HospitalManagement\obj\Debug\HospitalManagement.Register.resources
+D:\Ders\3.Sınıf Güz\Database Applications\HospitalManagement\HospitalManagement\obj\Debug\HospitalManagement.AddPatient.resources
+D:\Ders\3.Sınıf Güz\Database Applications\HospitalManagement\HospitalManagement\obj\Debug\HospitalManagement.Diagnosis.resources
+D:\Ders\3.Sınıf Güz\Database Applications\HospitalManagement\HospitalManagement\obj\Debug\HospitalManagement.Doctor.resources
+D:\Ders\3.Sınıf Güz\Database Applications\HospitalManagement\HospitalManagement\obj\Debug\HospitalManagement.MyProfile.resources
+D:\Ders\3.Sınıf Güz\Database Applications\HospitalManagement\HospitalManagement\obj\Debug\HospitalManagement.Patient.resources
+D:\Ders\3.Sınıf Güz\Database Applications\HospitalManagement\HospitalManagement\obj\Debug\HospitalManagement.admin_form.resources
+D:\Bilgisayar Mühendisliği 4. Sınıf\1. Dönem\Database Application\Project\Proje\HospitalManagement\HospitalManagement\HospitalManagement\bin\Debug\HospitalManagement.exe.config
+D:\Bilgisayar Mühendisliği 4. Sınıf\1. Dönem\Database Application\Project\Proje\HospitalManagement\HospitalManagement\HospitalManagement\bin\Debug\HospitalManagement.exe
+D:\Bilgisayar Mühendisliği 4. Sınıf\1. Dönem\Database Application\Project\Proje\HospitalManagement\HospitalManagement\HospitalManagement\bin\Debug\HospitalManagement.pdb
+D:\Bilgisayar Mühendisliği 4. Sınıf\1. Dönem\Database Application\Project\Proje\HospitalManagement\HospitalManagement\HospitalManagement\obj\Debug\HospitalManagement.csproj.AssemblyReference.cache
+D:\Bilgisayar Mühendisliği 4. Sınıf\1. Dönem\Database Application\Project\Proje\HospitalManagement\HospitalManagement\HospitalManagement\obj\Debug\HospitalManagement.AddPatient.resources
+D:\Bilgisayar Mühendisliği 4. Sınıf\1. Dönem\Database Application\Project\Proje\HospitalManagement\HospitalManagement\HospitalManagement\obj\Debug\HospitalManagement.admin_form.resources
+D:\Bilgisayar Mühendisliği 4. Sınıf\1. Dönem\Database Application\Project\Proje\HospitalManagement\HospitalManagement\HospitalManagement\obj\Debug\HospitalManagement.Diagnosis.resources
+D:\Bilgisayar Mühendisliği 4. Sınıf\1. Dönem\Database Application\Project\Proje\HospitalManagement\HospitalManagement\HospitalManagement\obj\Debug\HospitalManagement.Doctor.resources
+D:\Bilgisayar Mühendisliği 4. Sınıf\1. Dönem\Database Application\Project\Proje\HospitalManagement\HospitalManagement\HospitalManagement\obj\Debug\HospitalManagement.Login.resources
+D:\Bilgisayar Mühendisliği 4. Sınıf\1. Dönem\Database Application\Project\Proje\HospitalManagement\HospitalManagement\HospitalManagement\obj\Debug\HospitalManagement.MyProfile.resources
+D:\Bilgisayar Mühendisliği 4. Sınıf\1. Dönem\Database Application\Project\Proje\HospitalManagement\HospitalManagement\HospitalManagement\obj\Debug\HospitalManagement.Patient.resources
+D:\Bilgisayar Mühendisliği 4. Sınıf\1. Dönem\Database Application\Project\Proje\HospitalManagement\HospitalManagement\HospitalManagement\obj\Debug\HospitalManagement.Properties.Resources.resources
+D:\Bilgisayar Mühendisliği 4. Sınıf\1. Dönem\Database Application\Project\Proje\HospitalManagement\HospitalManagement\HospitalManagement\obj\Debug\HospitalManagement.Register.resources
+D:\Bilgisayar Mühendisliği 4. Sınıf\1. Dönem\Database Application\Project\Proje\HospitalManagement\HospitalManagement\HospitalManagement\obj\Debug\HospitalManagement.csproj.GenerateResource.cache
+D:\Bilgisayar Mühendisliği 4. Sınıf\1. Dönem\Database Application\Project\Proje\HospitalManagement\HospitalManagement\HospitalManagement\obj\Debug\HospitalManagement.csproj.CoreCompileInputs.cache
+D:\Bilgisayar Mühendisliği 4. Sınıf\1. Dönem\Database Application\Project\Proje\HospitalManagement\HospitalManagement\HospitalManagement\obj\Debug\HospitalManagement.exe
+D:\Bilgisayar Mühendisliği 4. Sınıf\1. Dönem\Database Application\Project\Proje\HospitalManagement\HospitalManagement\HospitalManagement\obj\Debug\HospitalManagement.pdb
